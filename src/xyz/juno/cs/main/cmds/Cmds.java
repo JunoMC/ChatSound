@@ -5,7 +5,7 @@ import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 
 import xyz.juno.cs.main.ChatSound;
-import xyz.juno.cs.main.settings.SettingsInterface.SettingsInterface$1.SettingsInterface$2.Settings;
+import xyz.juno.cs.main.settings.SettingsInterface.Settings;
 
 public class Cmds implements CommandExecutor {
 	@Override
