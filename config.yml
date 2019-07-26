@@ -1,0 +1,25 @@
+Prefix: '&7[&c&l►&7]&r '
+
+Sounds:
+  LEVEL_UP:
+    Sound: 'ENTITY_PLAYER_LEVELUP'
+    Volumn: 1
+    Pitch: 1.5
+    Permission: 'cs.levelup'
+    
+#  EXPERIENCE_PICKUP:
+#    Sound: 'ENTITY_EXPERIENCE_ORB_PICKUP'
+#    Volumn: 0.5
+#    Pitch: 2
+#    Permission: 'cs.exp'
+    
+messages:
+  no-permission: '&cBạn không có quyền dùng lệnh này'
+  reload-success: '&aTải lại cấu hình thành công!'
+  reload-error: '&cCó lỗi xảy ra trong quá trình tải lại'
+  
+  help:
+  - '&7[&b◄&7]&e-------------------------------------------&7[&b►&7]'
+  - '&c/{lenh} reload &f- &btải lại cấu hình &8(cs.reload)'
+  - '&c/{lenh} help &f- &bxem thêm nhiều lệnh hơn &8(cs.help)'
+  - '&7[&b◄&7]&e-------------------------------------------&7[&b►&7]'

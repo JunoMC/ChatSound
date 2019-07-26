@@ -1,0 +1,14 @@
+name: ChatSound
+version: 1.0
+author: Juno
+main: xyz.juno.cs.main.ChatSound
+api-version: 1.13, 1.14
+
+commands:
+  cs:
+    aliases: [chatsound, soundchat]
+permissions:
+  cs.help:
+    default: op
+  cs.reload:
+    default: op
